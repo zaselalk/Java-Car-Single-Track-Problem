@@ -1,5 +1,5 @@
 public class CarRaceDemo {
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) {
 
         Car Dilango = new Car("Dilango",2000);
         Car Ferrari = new Car("Ford Mustang",1000);

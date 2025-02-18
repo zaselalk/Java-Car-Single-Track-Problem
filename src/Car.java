@@ -1,5 +1,5 @@
 public class Car extends Thread{
-    private int speed;
+    private final int speed;
 
     public Car(String Name, int speed){
         this.speed = speed;
